@@ -1,6 +1,6 @@
 # Bitcoin Tracker 
 
-Using the bitcoinaverage api to retrieve the latest bitcoin information. Built in Kotlin.
+Using the bitcoinaverage api to retrieve the latest bitcoin information. Built with :heart: and Kotlin.
 
 ## API Key
 You need to add your personal private and private key from the bitcoinaverage api in order to use the websockets. 
