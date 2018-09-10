@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BitcoinTracker</string>
+
+    <string name="label_todays_open">TODAY\'S OPEN</string>
+    <string name="label_todays_high">TODAY\'S HIGH</string>
+    <string name="label_todays_low">TODAY\'S LOW</string>
+    <string name="label_us_index">US INDEX</string>
+    <string name="label_24_average">24H AVERAGE</string>
+    <string name="label_global_val">GLOBAL VALUE</string>
+
+</resources>
